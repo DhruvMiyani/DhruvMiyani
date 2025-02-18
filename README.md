@@ -26,26 +26,6 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvmiyani&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvmiyani" /> </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="margin: 10px;">
-  <!-- Programming Languages -->
-  <strong>Programming Languages:</strong><br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-
-  <!-- Libraries & Platforms -->
-  <strong>Libraries & Platforms:</strong><br>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-
-  <!-- Cloud & Database -->
-  <strong>Cloud & Database:</strong><br>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-
   <!--  MLOps -->
  <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="margin: 10px;">
