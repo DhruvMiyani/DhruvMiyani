@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Traditional Machine Learning  
 - 📫 How to reach me: ...  dhruvmiyani26@gmail.com
 - 😄 Pronouns: ... he/him 
-- ⚡ Fun fact: I earned my undergraduate CS degree in just three years and completed a Master's in AI by the age of 22.
+- ⚡ Fun fact: I earned my undergraduate CS degree in 3 years and a Master's in AI by the age of 22.
 
 ###
 
