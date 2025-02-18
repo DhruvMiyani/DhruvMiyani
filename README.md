@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there Dhruv Miyani 👋
 
-
-Here are some ideas to get you started:
+Machine Learning Engineer 
 
 - 🔭 I’m currently working on           Deploying of new models.
 - 🌱 I’m currently learning             Clinical AI Agents
