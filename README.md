@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 ###
 
 ## Connect with Me
-- [LinkedIn](your-linkedin-url)
+- ![Logo](your-linkedin-url)
 - [Email](mailto:your-email)
 
+ 
