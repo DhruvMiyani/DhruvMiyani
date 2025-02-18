@@ -9,13 +9,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Traditional Machine Learning  
 - 📫 How to reach me: ...  dhruvmiyani26@gmail.com
 - 😄 Pronouns: ... he/him 
-- ⚡ Fun fact: Undergraduate CS degree in 3 years and completed my MS in AI by the age of 22.
--->
+- ⚡ Fun fact: I earned my undergraduate CS degree in just three years and completed a Master's in AI by the age of 22.
 
 ###
 
 ## Connect with Me
-- ![Logo](your-linkedin-url)
-- [Email](mailto:your-email)
+- <a href="https://www.linkedin.com/in/dhruvmiyani/">
+    <img src="https://github.com/user-attachments/assets/16a69ba6-0aae-47f0-9de3-df9f23d9ab21" width="50" alt="LinkedIn">
+  </a>
+- <a href="mailto:dhruvmiyani26@gmail.com">
+    <img src="https://github.com/user-attachments/assets/81e2af31-953c-419d-a027-b9a976267fec" width="50" alt="Email">
+  </a>
 
  
