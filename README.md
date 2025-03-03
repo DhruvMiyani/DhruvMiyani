@@ -2,7 +2,7 @@
 
 Machine Learning Engineer 
 
-- 🔭 I’m currently working on           Deploying new models.
+- 🔭 I’m currently working on           Deploying ML Models.
 - 🌱 I’m currently learning             Clinical AI Agents
 - 👯 I’m looking to collaborate on    
 - 💬 Ask me about   Traditional Machine Learning  
