@@ -3,7 +3,7 @@
 Sole Machine Learning Engineer @ monitapp.io 
 - 🏆   Hacks : OpenAI NYC @ 4th , Meta LLama , UC Berkeley AI
 - 🔭 I’m currently working on           Deploying ML Models.
-- 👯 I’m looking to collaborate on    
+- 👯 I’m looking to collaborate on AI Hacks
 - 💬 Ask me about   Traditional Machine Learning  
 - 📫 How to reach me:     dhruvmiyani26@gmail.com
 - 😄 Pronouns:  he/him 
