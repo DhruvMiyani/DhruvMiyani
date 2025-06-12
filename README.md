@@ -1,6 +1,6 @@
 ## Hi there Dhruv Miyani 👋
 
-Machine Learning Engineer 
+Sole Machine Learning Engineer @ monitapp.io 
 
 - 🔭 I’m currently working on           Deploying ML Models.
 - 🌱 I’m currently learning             Clinical AI Agents
