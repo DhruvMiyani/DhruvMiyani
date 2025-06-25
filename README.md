@@ -1,6 +1,6 @@
 ## Hi there Dhruv Miyani 👋
 
-Sole Machine Learning Engineer @ monitapp.io 
+First & Sole Machine Learning Engineer @ monitapp.io 
 - 🏆   Hacks : OpenAI NYC @ 4th , Meta LLama , UC Berkeley AI
 - 🔭 I’m currently working on           Deploying ML Models.
 - 👯 I’m looking to collaborate on AI Hacks
