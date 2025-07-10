@@ -2,7 +2,7 @@
 
 First & Sole Machine Learning Engineer @ monitapp.io 
 - 🏆   Hacks : OpenAI NYC @ 4th , Meta LLama , UC Berkeley AI
-- 🔭 I’m currently working on           Deploying ML Models.
+- 🔭 I’m currently working on Buliding Future of remote work.
 - 👯 I’m looking to judge AI Hacks
 - 💬 Ask me about   Traditional Machine Learning  
 - 📫 How to reach me:     dhruvmiyani26@gmail.com
