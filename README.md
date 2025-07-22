@@ -42,7 +42,7 @@ First & Sole Machine Learning Engineer @ monitapp.io
   <!-- Cloud & Database -->
   <strong>Cloud & Database:</strong><br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+  <a href="https://github.com/DhruvMiyani/GoogleCloudRun_aitinkerersNYC2025/tree/main" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
   <!-- Visualization & MLOps -->
