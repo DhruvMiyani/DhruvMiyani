@@ -2,7 +2,7 @@
 
 First & Sole Machine Learning Engineer @ monitapp.io 
 - 🏆   Hacks : OpenAI NYC @ 4th , Meta LLama NYC , UC Berkeley AI , Google Cloud Run NYC - Top 6
-- 🔭 I’m currently working on Building Future of........(talk to me 1:1)
+- 🔭 I’m currently working........
 - 👯 I’m looking to judge AI Hacks
 - 💬 Ask me about   Traditional Machine Learning  
 - 📫 How to reach me:     dhruvmiyani26@gmail.com
