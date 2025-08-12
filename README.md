@@ -1,7 +1,7 @@
 ## HellooooooOOOOOOO ,Im Dhruv Miyani 👋
 
 First & Sole Machine Learning Engineer @ monitapp.io 
-- 🏆   Hacks : OpenAI NYC @ 4th , Meta LLama NYC , UC Berkeley AI , Google Cloud Run NYC - Top 6
+- 🏆   Hacks : OpenAI GPT 5, OpenAI NYC @ 4th , Meta LLama NYC , UC Berkeley AI , Google Cloud Run NYC - Top 6
 - 🔭 I’m currently working........
 - 👯 I’m looking to judge AI Hacks
 - 💬 Ask me about   Traditional Machine Learning  
