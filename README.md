@@ -54,6 +54,11 @@ First & Sole Machine Learning Engineer @ monitapp.io
   <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS EC2" width="40" height="40"/> </a>
 </p>
 
+<strong>Backend:</strong><br>
+<img src="https://github.com/user-attachments/assets/22acc213-8af6-43e5-8ec5-931e07a4a576" alt="FastAPI" width="43" />
+
+
+
 </p>
 
 
