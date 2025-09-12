@@ -8,7 +8,7 @@ First & Sole Machine Learning Engineer @ monitapp.io
 - 📫 How to reach me:     dhruvmiyani26@gmail.com
 - 😄 Pronouns:  he/him 
 - ⚡ Fun fact: I earned my undergraduate CS degree in 3 years and a Master's in AI by the age of 22.
--  👨‍💻 All of my projects are available at [https://dhruvmiyani.framer.ai/](https://dhruvmiyani.framer.ai/)
+-  👨‍💻 [https://dhruvmiyani.framer.ai/](https://dhruvmiyani.framer.ai/)
 
 ###
 
