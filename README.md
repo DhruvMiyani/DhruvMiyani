@@ -12,14 +12,6 @@ First & Sole Machine Learning Engineer @ monitapp.io
 
 ###
 
-## Connect with Me
-- <a href="https://www.linkedin.com/in/dhruvmiyani/">
-    <img src="https://github.com/user-attachments/assets/16a69ba6-0aae-47f0-9de3-df9f23d9ab21" width="50" alt="LinkedIn">
-  </a>
-- <a href="mailto:dhruvmiyani26@gmail.com">
-    <img src="https://github.com/user-attachments/assets/81e2af31-953c-419d-a027-b9a976267fec" width="50" alt="Email">
-  </a>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvmiyani&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvmiyani" /> </p>
 
