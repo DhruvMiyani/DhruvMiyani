@@ -2,7 +2,6 @@
 
 First Hire @ trifetch.ai
 - 🏆 Hacks: AI fintech hack-NYC UBS, OpenAI GPT 5, OpenAI NYC @ 4th , Meta LLama NYC , UC Berkeley AI , Google Cloud Run NYC - Top 6
-- 🔭 I’m currently working on proving my candidacy for something
 - 👯 I’m looking to judge AI Hacks
 - 💬 Ask me about   Traditional Machine Learning  
 - 📫 How to reach me:     dhruvmiyani26@gmail.com
